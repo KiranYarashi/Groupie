@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963610553573",
+    "project_id": "groupchat-96e07",
+    "storage_bucket": "groupchat-96e07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963610553573:android:c185fe52fdcf9c3aab780c",
+        "android_client_info": {
+          "package_name": "com.example.groupchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCULvpR0-OcwJJ9CN6CFw_iHuzYXgL-PHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
